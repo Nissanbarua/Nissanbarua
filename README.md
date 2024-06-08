@@ -3,7 +3,7 @@
 ![I am Beginner Front-End Developer ](https://media.licdn.com/dms/image/D4E16AQEs3qiI2dWB2Q/profile-displaybackgroundimage-shrink_350_1400/0/1717684800415?e=1723075200&v=beta&t=Nl-gk0ptNu9cUvu2q4QiYhxl5DTgZh2esQ4nDfgUbmA)
 
 
-Skills: JS / HTML / CSS
+Skills: <strong>JS / HTML / CSS</strong>
 
 - 🔭 I’m currently working on My-self 
 - 🌱 I’m currently learning JavaScript 
