@@ -17,7 +17,7 @@ Skills: <strong>JS / HTML / CSS</strong>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nissanbarua)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nissanbarua)] <!--(https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nissanbarua)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nissanbarua&show_icons=true)  
 
