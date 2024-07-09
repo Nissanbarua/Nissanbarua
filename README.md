@@ -23,7 +23,7 @@ Skills: <strong>JS / HTML / CSS</strong>
 
 <!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nissanbarua/contributions?format=svg&private=false) -->
 
-<!--![GitHub metrics](https://metrics.lecoq.io/Nissanbarua)  
+![GitHub metrics](https://metrics.lecoq.io/Nissanbarua)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nissanbarua)-->
 
