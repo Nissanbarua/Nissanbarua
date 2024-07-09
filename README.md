@@ -21,7 +21,7 @@ Skills: <strong>JS / HTML / CSS</strong>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nissanbarua&show_icons=true)  
 
-<!--![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nissanbarua/contributions?format=svg&private=false) -->
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Nissanbarua/contributions?format=svg&private=false) 
 
 <!--![GitHub metrics](https://metrics.lecoq.io/Nissanbarua)  
 
