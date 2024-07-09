@@ -25,5 +25,5 @@ Skills: <strong>JS / HTML / CSS</strong>
 
 ![GitHub metrics](https://metrics.lecoq.io/Nissanbarua)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Nissanbarua)-->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nissanbarua)
 
