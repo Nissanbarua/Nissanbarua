@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Nissan Barua
 #### I am Beginner Front-End Developer 
-![I am Beginner Front-End Developer ](https://media.licdn.com/dms/image/D4E16AQEs3qiI2dWB2Q/profile-displaybackgroundimage-shrink_350_1400/0/1717684800415?e=1723075200&v=beta&t=Nl-gk0ptNu9cUvu2q4QiYhxl5DTgZh2esQ4nDfgUbmA)
+![I am Beginner Front-End Developer ](https://media.licdn.com/dms/image/D4E16AQEs3qiI2dWB2Q/profile-displaybackgroundimage-shrink_350_1400/0/1719354751698?e=1728518400&v=beta&t=E1jgxgF1VAJ58vJ5avmuYqsiChg-eJ823HtHQEquMik)
 
 
 Skills: <strong>JS / HTML / CSS</strong>
