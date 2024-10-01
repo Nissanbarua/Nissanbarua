@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nissan Barua</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-https://media.licdn.com/dms/image/v2/D4E16AQEs3qiI2dWB2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719354751698?e=1733356800&v=beta&t=WiuhzhCERp4vsHD30Lm3DTUiBCaXWIzXeVzVuCbXlZo
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nissanbarua&label=Profile%20views&color=0e75b6&style=flat" alt="nissanbarua" /> </p>
 
