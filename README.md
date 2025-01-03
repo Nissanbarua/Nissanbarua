@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/baruanissan1" target="blank"><img src="https://img.shields.io/twitter/follow/baruanissan1?logo=twitter&style=for-the-badge" alt="baruanissan1" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, Node JS, Express**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, Node, Express, MongoDB**
 
 - 📫 How to reach me **baruanissan55@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <br>
