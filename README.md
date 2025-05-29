@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/baruanissan1" target="blank"><img src="https://img.shields.io/twitter/follow/baruanissan1?logo=twitter&style=for-the-badge" alt="baruanissan1" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Node JS, Express**
+- 🌱 I’m currently learning **Backend Technology, Phython**
 
 - 💬 Ask me about **React, Node, Express, MongoDB**
 
