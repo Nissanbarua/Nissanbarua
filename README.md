@@ -47,7 +47,7 @@ const nissanBarua = {
 - 💬 Ask me about **React, Node, Express, MongoDB**
 - 📫 Reach me at **baruanissan55@gmail.com**
 - ⚡ Fun fact: I debug faster with lo-fi music on 🎵
-- 🎯 **2025 Goal:** Contribute more to Open Source
+- 🎯 **2026 Goal:** Contribute more to Open Source
 - 💼 Open for **freelance** & **collaboration** opportunities
 
 ---
