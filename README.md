@@ -1,38 +1,187 @@
-<h1 align="center">Hi 👋, I'm Nissan Barua</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nissanbarua&label=Profile%20views&color=0e75b6&style=flat" alt="nissanbarua" /> </p>
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Nissan%20Barua&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20🇧🇩&descAlignY=60&descAlign=50" />
 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+MongoDB+Expert;Always+learning+new+things+%F0%9F%8C%B1;Open+to+exciting+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<p align="left"> <a href="https://twitter.com/baruanissan1" target="blank"><img src="https://img.shields.io/twitter/follow/baruanissan1?logo=twitter&style=for-the-badge" alt="baruanissan1" /></a> </p>
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=nissanbarua&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/nissanbarua?tab=followers">
+  <img src="https://img.shields.io/github/followers/nissanbarua?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://twitter.com/baruanissan1">
+  <img src="https://img.shields.io/twitter/follow/baruanissan1?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" />
+</a>
 
-- 🌱 I’m currently learning **Backend Technology, Phython**
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const nissanBarua = {
+  name:        "Nissan Barua",
+  location:    "Bangladesh 🇧🇩",
+  role:        "Full Stack Developer",
+  currentlyLearning: ["Backend Technology", "Python 🐍"],
+  askMeAbout:  ["React", "Node.js", "Express", "MongoDB"],
+  email:       "baruanissan55@gmail.com",
+  portfolio:   "🚧 Coming Soon...",
+  funFact:     "I turn ☕ coffee into clean code!",
+};
+```
+
+<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+- 🔭 Currently working on exciting **Full Stack Projects**
+- 🌱 Learning **Backend Technology & Python**
 - 💬 Ask me about **React, Node, Express, MongoDB**
+- 📫 Reach me at **baruanissan55@gmail.com**
+- ⚡ Fun fact: I debug faster with lo-fi music on 🎵
+- 🎯 **2025 Goal:** Contribute more to Open Source
+- 💼 Open for **freelance** & **collaboration** opportunities
 
-- 📫 How to reach me **baruanissan55@gmail.com**
+---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nissanbarua" alt="nissanbarua" /></a> </p>
-<p align="left">
-<a href="https://dev.to/nissan_barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nissan_barua" height="30" width="40" /></a>
-<a href="https://twitter.com/baruanissan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baruanissan1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nissan-barua77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nissan-barua77" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25494409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25494409" height="30" width="40" /></a>
-<a href="https://fb.com/barua.nissan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barua.nissan" height="30" width="40" /></a>
-<a href="https://instagram.com/neon_nissan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neon_nissan" height="30" width="40" /></a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=nissanbarua&theme=radical&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=7" alt="nissanbarua trophies" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanbarua&show_icons=true&locale=en&layout=compact" alt="nissanbarua" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nissanbarua&show_icons=true&locale=en" alt="nissanbarua" /></p>
+## 🛠️ Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nissanbarua&" alt="nissanbarua" /></p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nissanbarua&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nissanbarua&theme=radical&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nissanbarua&show_icons=true&theme=radical&hide_border=true&layout=compact" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nissanbarua&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nissan_barua)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/baruanissan1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nissan-barua77)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25494409)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/barua.nissan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neon_nissan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baruanissan55@gmail.com)
+
+</div>
+
+---
+
+<!-- ## 💼 Portfolio & Projects
+
+> 🚧 **Portfolio website coming soon!** Stay tuned...
+
+| 🚀 Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
+|-----------|---------------|--------------|---------|
+| _Project 1_ | _Add your project description here_ | React, Node | _Link_ |
+| _Project 2_ | _Add your project description here_ | Next.js, MongoDB | _Link_ |
+| _Project 3_ | _Add your project description here_ | Express, Firebase | _Link_ | -->
+
+---
+
+## 📝 Latest Blog Posts
+
+> ✍️ **Coming soon on [Dev.to](https://dev.to/nissan_barua)** — I'll be writing about React, Node.js, and web dev tips!
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - _Post 1 title goes here_
+- _Post 2 title goes here_
+- _Post 3 title goes here_ -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nissanbarua/nissanbarua/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nissanbarua/nissanbarua/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nissanbarua/nissanbarua/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" />
+
+**⭐ If you like my work, consider giving my repos a star! ⭐**
+
+*Made with ❤️ by Nissan Barua from Bangladesh 🇧🇩*
+
+</div>
